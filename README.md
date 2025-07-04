@@ -1,4 +1,4 @@
-#BIP39 → BIP44 Ethereum Key Derivation (MetaMask Compatible)
+# BIP39 → BIP44 Ethereum Key Derivation (MetaMask Compatible)
 
 This minimal project demonstrates end-to-end generation of an Ethereum keypair and address from 128 bits of entropy using the BIP-39 and BIP-44 standards — compatible with MetaMask, Ledger, Trezor, and other HD wallets.
 
